@@ -1,6 +1,6 @@
-Note: Nativefier is unmaintained, please see https://github.com/nativefier/nativefier/issues/1577.
-
 # Nativefier
+
+Forcked from https://github.com/nativefier/nativefier
 
 ![Example of Nativefier app in the macOS dock](.github/dock-screenshot.png)
 

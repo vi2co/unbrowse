@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Placeholder for the nativefier cli to override with a target url",
   "main": "lib/main.js",
-  "author": "Jia Hao",
+  "author": "Vitaliy Shynkar",
   "license": "MIT",
   "keywords": [
     "desktop",
